@@ -1,0 +1,35 @@
+@import "../fonts/Roboto/stylesheet.css";
+
+:root {
+    font-size: 62.5%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+    font-family: 'Roboto';
+}
+
+header {
+    padding: 41px 360px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+h1 {
+    color: #1A4D70
+}
+
+h2 {
+    color: #1A4D70
+}
+
+p {
+    color: #1A4D70
+}
+
+a {
+    text-decoration: none
+}
